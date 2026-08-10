@@ -1,7 +1,7 @@
 {
   "name": "BLIBIX - ZEUVASTEC TECHNOLOGY",
   "short_name": "BLIBIX",
-  "description": "Quiz b\u00edblico 84 perguntas - Solo e Multiplayer com som iPhone - Zeuvastec",
+  "description": "Quiz 84 perguntas - Fix 3 jogadores travando + som iPhone",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a08",
